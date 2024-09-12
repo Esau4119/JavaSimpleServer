@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "Question1",
+      "setup": "",
+      "run": "mvn -Dtest=GetHandlerTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question2",
+      "setup": "",
+      "run": "mvn -Dtest=BasicRequestTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question3",
+      "setup": "",
+      "run": "mvn -Dtest=QueryParamsRequest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question4",
+      "setup": "",
+      "run": "mvn -Dtest=TestRequestParserBody test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question5",
+      "setup": "",
+      "run": "mvn -Dtest=CustomHttpResponseTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question6",
+      "setup": "",
+      "run": "mvn -Dtest=NotFoundTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question7",
+      "setup": "",
+      "run": "mvn -Dtest=CreditCardTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question8",
+      "setup": "",
+      "run": "mvn -Dtest=CashTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question9",
+      "setup": "",
+      "run": "mvn -Dtest=GetPaymentTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}

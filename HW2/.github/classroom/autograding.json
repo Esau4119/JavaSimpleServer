@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Question1",
+      "setup": "",
+      "run": "mvn -Dtest=DaoTests test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Question2",
+      "setup": "",
+      "run": "mvn -Dtest=GetCashPaymentTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Question3",
+      "setup": "",
+      "run": "mvn -Dtest=GetCreditTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Question4",
+      "setup": "",
+      "run": "mvn -Dtest=GetPaymentsTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Question5",
+      "setup": "",
+      "run": "mvn -Dtest=StorePaymentTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
